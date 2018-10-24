@@ -3,13 +3,15 @@ title: Apache Tomcat
 ---
 ## Apache Tomcat
 
-The Apache Tomcat® software is an open source implementation of the Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket technologies. The Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket specifications are developed under the Java Community Process.
 
-The Apache Tomcat software is developed in an open and participatory environment and released under the Apache License version 2. The Apache Tomcat project is intended to be a collaboration of the best-of-breed developers from around the world. We invite you to participate in this open development project. To learn more about getting involved, click here.
+The Apache Tomcat is a Web Server that provides servlet container for JSP and Servlets.
+By default the apache tomcat take requests on port 8080 and can be changed in server.xml
 
-Apache Tomcat software powers numerous large-scale, mission-critical web applications across a diverse range of industries and organizations. Some of these users and their stories are listed on the PoweredBy wiki page.
+It is a opensource applcation server that is available free of cost
 
-Apache Tomcat, Tomcat, Apache, the Apache feather, and the Apache Tomcat project logo are trademarks of the Apache Software Foundation.
+To start apache tomcat
+1. Go to bin directory
+2. Run startup.sh for linux
 
 
 
